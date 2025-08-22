@@ -148,4 +148,4 @@ Adjust the `ITEMS_PER_PAGE` constant in `components/todo-app.tsx` to change page
 
 ## 📝 License
 
-This project is built for educational and assessment purposes.
+This project is built for assessment purposes.
